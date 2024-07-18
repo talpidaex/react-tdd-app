@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wallet renders properly 1`] = `
+<div>
+  <div
+    data-testid="wallet-component"
+  >
+    <h3
+      data-testid="balance-text"
+    >
+      Wallet balance:
+      0
+    </h3>
+  </div>
+</div>
+`;

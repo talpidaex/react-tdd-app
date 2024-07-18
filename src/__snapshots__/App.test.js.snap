@@ -6,6 +6,16 @@ exports[`App render properly 1`] = `
     <h2>
       Loot Check
     </h2>
+    <div
+      data-testid="wallet-component"
+    >
+      <h3
+        data-testid="balance-text"
+      >
+        Wallet balance:
+        0
+      </h3>
+    </div>
   </div>
 </div>
 `;
